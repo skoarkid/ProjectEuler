@@ -30,4 +30,4 @@ function isPrime(number)
   return true;
 }
 
-largestPrimeFactor(13195);
+largestPrimeFactor(600851475143);
