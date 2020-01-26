@@ -20,4 +20,4 @@ function fiboEvenSum(n) {
   return sum;
 }
 
-fiboEvenSum(10);
+fiboEvenSum(4000000);
